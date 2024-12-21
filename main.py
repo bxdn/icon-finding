@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import pyautogui
-from sys import argv
 from datetime import datetime
 from time import sleep
 
